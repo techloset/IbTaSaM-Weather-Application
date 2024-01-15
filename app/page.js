@@ -15,7 +15,6 @@ export default function Page() {
       </div>
       <div class="text-slate-300 text-[14px] sm:text-[20px] font-normal leading-[140%] mt-[8px]">
         Choose a location to see weather forecast
-        Choose a location to see weather forecast
       </div>
 
       <SearchInput searchStyle="mt-[32px] sm:mt-[56px]" />
